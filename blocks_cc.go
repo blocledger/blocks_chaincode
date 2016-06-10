@@ -16,7 +16,7 @@ limitations under the License.
 
 package main
 
-//  This is Eric's first chaincode attempt
+//  This is Eric's first chaincode attempt based on IBM's example 2
 
 import (
 	"encoding/json"
